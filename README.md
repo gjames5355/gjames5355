@@ -22,5 +22,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gjames5355&show_icons=true&count_private=true&hide=issues,contribs&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="GitHub stats" />
 
+</p>
 
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=gjames5355&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C" alt="github trophies" />
 </p>
