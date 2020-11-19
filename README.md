@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrian!</h1>
 
-![Sitting at the brunch](https://github.com/gjames5355/gjames5355/blob/master/photo.png)
+![Sitting at the brunch](https://github.com/gjames5355/gjames5355/blob/main/photo.png)
 
 <p align="center">
     <a href="https://adriangrimm.com">
